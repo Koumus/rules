@@ -61,7 +61,13 @@ Any other Minecraft related creations belong here. This includes drawings, writi
 
     Stories depicting Herobrine as a character must contain a disclaimer stating that Herobrine is not real. 
 
-### Shops / Requests
+### Images
+
+* __Inserting Images__
+
+    Each topic should contain an image inserted into it. Images can be inserted following [Opeth's guide](http://img.mcf.li/images.jpg).
+    
+## Shops and Requests
 
 * __Creation Selling__
 
@@ -69,10 +75,4 @@ Any other Minecraft related creations belong here. This includes drawings, writi
     services is allowed, however we provide no assurances or protections for 
     customer and seller. If you purchase a service it is your responsibility 
     to ensure the service is delivered, not ours. Any complaints about sellers 
-    or buyers will be ignored.
-
-### Images
-
-* __Inserting Images__
-
-    Each topic should contain an image inserted into it. Images can be inserted following [Opeth's guide](http://img.mcf.li/images.jpg).
+    or buyers will be ignored.    
