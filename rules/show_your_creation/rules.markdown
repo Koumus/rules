@@ -57,7 +57,7 @@ This section is only for technical help regarding livestreaming and video making
 
 Any other Minecraft related creations belong here. This includes drawings, writings and musical pieces.
 
-* _Literature_
+* __Literature__
 
     Stories depicting Herobrine as a character must contain a disclaimer stating that Herobrine is not real. 
 
